@@ -3,8 +3,8 @@
   <strong>Trunks:</strong> "I've changed history for no reason."
 </blockquote>
 
-### Hey I'm Overseer!
-I make the website go and the game play. I am a fullstack developer who enjoys adventure/psychological animes, especially one piece and code geass! I am living the college life and learning about security. A lot of my projects involve React and Lua!
+### Hi
+I make websites n stuff
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
@@ -21,7 +21,5 @@ I make the website go and the game play. I am a fullstack developer who enjoys a
 <br />
 <br />
 
-say hi or human words u want here:
+words u want here:
 <a href="mailto:overseeruniverse@gmail.com">my email</a>
-
-btw mudkip is my favorite starter
