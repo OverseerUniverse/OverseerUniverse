@@ -1,10 +1,9 @@
-![Banner](defender.gif)
-<blockquote>
+<img src="defender.gif" alt="Banner" width="1000" height="450">   <blockquote>
   <strong>Trunks:</strong> "I've changed history for no reason."
 </blockquote>
 
-### Hi
-I make websites n stuff
+### Hey thanks for visiting
+I make fullstack applications, currently studying network & malware security.
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
@@ -21,5 +20,5 @@ I make websites n stuff
 <br />
 <br />
 
-words u want here:
+words go here:
 <a href="mailto:overseeruniverse@gmail.com">my email</a>
